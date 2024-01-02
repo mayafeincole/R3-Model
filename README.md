@@ -7,3 +7,8 @@ The Resource Recovery and Reuse (R3) model was built in Python and ArcGIS Pro to
 ## Downloading and Using the Model
 
 ## Citation and Other Resources
+Please use the following citation for the R3 model:  
+blah blah blah citation
+
+For questions and more information, please contact:  
+Kate Porterfield, Katherine.K.Porterfield@uvm.edu
