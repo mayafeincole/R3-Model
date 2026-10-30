@@ -1,6 +1,6 @@
 # The R3 Model
 
-The Resource Recovery and Reuse (R3) model was built in Python and ArcGIS Pro to optimize recovered resource distribution across a spatial grid of reuse. The R3 model was developed to model compost recovery and resuse to croplands in Sri Lanka but can be applied to other resource recovery and resuse questions at various landscape scales. 
+The Resource Recovery and Reuse (R3) model was built in Python and ArcGIS Pro to optimize recovered resource distribution across a spatial grid of reuse. The R3 model was developed to model compost recovery and reuse to croplands in Sri Lanka but can be applied to other resource recovery and reuse questions at various landscape scales. 
 
 ## About the Model
 ![schematic](https://github.com/mayafeincole/R3-Model/assets/82042162/15e8145a-5f6d-4252-b08f-beb3338fcbe9)
